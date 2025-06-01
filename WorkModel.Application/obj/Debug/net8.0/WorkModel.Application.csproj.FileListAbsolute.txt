@@ -1,0 +1,15 @@
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/bin/Debug/net8.0/WorkModel.Application.deps.json
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/bin/Debug/net8.0/WorkModel.Application.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/bin/Debug/net8.0/WorkModel.Application.pdb
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/bin/Debug/net8.0/WorkModel.Domain.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/bin/Debug/net8.0/WorkModel.Domain.pdb
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/obj/Debug/net8.0/WorkModel.Application.csproj.AssemblyReference.cache
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/obj/Debug/net8.0/WorkModel.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/obj/Debug/net8.0/WorkModel.Application.AssemblyInfoInputs.cache
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/obj/Debug/net8.0/WorkModel.Application.AssemblyInfo.cs
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/obj/Debug/net8.0/WorkModel.Application.csproj.CoreCompileInputs.cache
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/obj/Debug/net8.0/WorkMode.BB4FC513.Up2Date
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/obj/Debug/net8.0/WorkModel.Application.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/obj/Debug/net8.0/refint/WorkModel.Application.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/obj/Debug/net8.0/WorkModel.Application.pdb
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Application/obj/Debug/net8.0/ref/WorkModel.Application.dll

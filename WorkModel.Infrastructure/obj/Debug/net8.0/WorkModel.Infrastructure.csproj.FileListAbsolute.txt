@@ -1,0 +1,15 @@
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/obj/Debug/net8.0/WorkModel.Infrastructure.csproj.AssemblyReference.cache
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/obj/Debug/net8.0/WorkModel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/obj/Debug/net8.0/WorkModel.Infrastructure.AssemblyInfoInputs.cache
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/obj/Debug/net8.0/WorkModel.Infrastructure.AssemblyInfo.cs
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/obj/Debug/net8.0/WorkModel.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/bin/Debug/net8.0/WorkModel.Infrastructure.deps.json
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/bin/Debug/net8.0/WorkModel.Infrastructure.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/bin/Debug/net8.0/WorkModel.Infrastructure.pdb
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/bin/Debug/net8.0/WorkModel.Domain.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/bin/Debug/net8.0/WorkModel.Domain.pdb
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/obj/Debug/net8.0/WorkMode.0022BC3D.Up2Date
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/obj/Debug/net8.0/WorkModel.Infrastructure.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/obj/Debug/net8.0/refint/WorkModel.Infrastructure.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/obj/Debug/net8.0/WorkModel.Infrastructure.pdb
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Infrastructure/obj/Debug/net8.0/ref/WorkModel.Infrastructure.dll

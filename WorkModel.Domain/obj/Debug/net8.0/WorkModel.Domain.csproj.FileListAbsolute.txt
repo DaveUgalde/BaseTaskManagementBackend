@@ -1,0 +1,12 @@
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/bin/Debug/net8.0/WorkModel.Domain.deps.json
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/bin/Debug/net8.0/WorkModel.Domain.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/bin/Debug/net8.0/WorkModel.Domain.pdb
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/obj/Debug/net8.0/WorkModel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/obj/Debug/net8.0/WorkModel.Domain.AssemblyInfoInputs.cache
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/obj/Debug/net8.0/WorkModel.Domain.AssemblyInfo.cs
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/obj/Debug/net8.0/WorkModel.Domain.csproj.CoreCompileInputs.cache
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/obj/Debug/net8.0/WorkModel.Domain.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/obj/Debug/net8.0/refint/WorkModel.Domain.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/obj/Debug/net8.0/WorkModel.Domain.pdb
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/obj/Debug/net8.0/ref/WorkModel.Domain.dll
+/Users/davidugalde/Documents/BaseTaskManagementApp/BaseTaskManagementAppBackend/WorkModel.Domain/obj/Debug/net8.0/WorkModel.Domain.csproj.AssemblyReference.cache
